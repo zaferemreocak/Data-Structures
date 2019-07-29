@@ -1,4 +1,4 @@
-# Data-Structures
+# Data Structures
 
 This folder contains Data Structures course content.
 
